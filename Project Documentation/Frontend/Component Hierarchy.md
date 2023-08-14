@@ -44,3 +44,12 @@ MainLayout
 				suggestion
 					header
 					suggestion-follow(button)
+	explore
+		explore-window
+			grid-container / GridPost
+				gallery-item
+					gallery-item-info
+						gallery-item-likes
+						gallery-item-comments
+					
+				
