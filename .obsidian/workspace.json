@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Documentation/Frontend/Component Hierarchy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Documentation/Frontend/Component Hierarchy.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Documentation/Frontend/Component Hierarchy.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Documentation/Frontend/Component Hierarchy.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37893883bff13efa",
+  "active": "ed5e49fdd738f732",
   "lastOpenFiles": [
-    "Resources/Useful Links.md",
     "Project Documentation/Frontend/Component Hierarchy.md",
+    "Resources/Useful Links.md",
     "Project Documentation/Frontend",
     "Project Documentation",
     "Project Documentation/Frontend/Component hierarchy.md",
